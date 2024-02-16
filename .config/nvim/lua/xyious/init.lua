@@ -1,6 +1,6 @@
 require("xyious.set")
 require("xyious.remap")
-vim.cmd('set langmap=ad,AD,bn,BN,cr,CR,d\\\\;,D:,ef,EF,fo,FO,gi,GI,hu,HU,is,IS,j/,J?,ky,KY,le,LE,nj,NJ,og,OG,pv,PV,qp,QP,rk,RK,sh,SH,tl,TL,ua,UA,vw,VW,wt,WT,xq,XQ,y\\\\,,Y\\",zb,ZB')
+vim.cmd('set langmap=ad,AD,bn,BN,cr,CR,d\\\\;,D:,ef,EF,fo,FO,gi,GI,hu,HU,is,IS,j/,J?,ky,KY,le,LE,nj,NJ,og,OG,pv,PV,qp,QP,rk,RK,sh,SH,tl,TL,ua,UA,vw,VW,wt,WT,xq,XQ,y\\\\,,Y\\",zb,ZB,üz,ÜZ,öx,ÖX,äc,Äc')
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
