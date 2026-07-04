@@ -1,6 +1,6 @@
 local mainMod = "SUPER"
 local noctCall = "noctalia msg "
-local launchPrefix = "uwsm app -- " -- if you are not using UWSM, make this empty (e.g. "")
+local launchPrefix = "" -- if you are not using UWSM, make this empty (e.g. "")
 
 ---------------------------
 ---- WINDOW MANAGEMENT ----
