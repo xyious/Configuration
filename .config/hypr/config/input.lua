@@ -8,7 +8,11 @@ hl.config({
         kb_variant = "neo_qwerty",
 
         repeat_delay = 256,
-        repeat_rate = 64
+        repeat_rate = 64,
+
+        touchpad = {
+            natural_scroll = true,
+        },
     },
 })
 
