@@ -12,7 +12,6 @@ hl.config({
                 colors = { "rgba(ff0099ee)", "rgba(493240ee)"},
                 angle = 45,
             },
-            inactive_border = CACHYGRAY,
         },
     },
     decoration = {

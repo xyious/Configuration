@@ -4,9 +4,6 @@ hl.config({
     },
     misc = {
         force_default_wallpaper = 2,
-        col = {
-            splash = CACHYLGREEN,
-        },
         middle_click_paste = false,
         enable_swallow = true,
         swallow_regex = "(kitty|ghostty|[Kk]onsole|Alacritty|gnome-terminal|xfce[0-9]?-terminal)",
