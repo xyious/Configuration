@@ -59,7 +59,7 @@ format = '[@$hostname]($style)'
 [cmd_duration]
 min_time = 0
 show_milliseconds = true
-style = "bold fg:#FF66FF bg:#4a1a4a"
+style = "bold fg:#FF99FF bg:#4a1a4a"
 format = "[$duration]($style)"
 
 # Directory module with enhanced foreground color
