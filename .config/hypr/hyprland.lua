@@ -2,7 +2,6 @@
 
 require("config.animations")
 require("config.autostart")
-require("config.colors")
 require("config.decorations")
 require("config.defaults")
 require("config.environment")
