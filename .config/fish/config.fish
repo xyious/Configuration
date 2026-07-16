@@ -1,5 +1,5 @@
 if status is-interactive
-    # use the coolbeans theme
+    set fish_greeting
     export STARSHIP_CONFIG=/home/ailuriya/.config/starship/starship.toml
     starship init fish | source
     fastfetch
